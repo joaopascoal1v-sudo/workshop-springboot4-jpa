@@ -6,4 +6,5 @@ import com.webservice.NexusAPI.entities.User;
 
 public interface UserRepository extends JpaRepository<User, Long> {
 
+		
 }
